@@ -1,0 +1,45 @@
+.popup-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  width: 60%;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.trigger-element {
+  width: 200px;
+}
+
+.video-thumbnail {
+  width: 90%;
+}
+
+.trigger-button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+}
+
+.popup-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 8px;
+  width: 98%;
+}
+
+.close-icon {
+  width: 16px;
+  height: 16px;
+}
+
+.close-button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  align-self: flex-end;
+}
